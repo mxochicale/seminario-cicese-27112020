@@ -1,4 +1,5 @@
 # Nonlinear analysis to quantify human movement variability from time-series data
+[![GitHub Actions Status](https://github.com/mxochicale/seminario-cicese-27112020/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/seminario-cicese-27112020/actions) [![slides](https://img.shields.io/badge/read-slides-blue.svg)](https://github.com/mxochicale/seminario-cicese-27112020/blob/generated-pdfs/slides.pdf)
 
 ## Abstract:
 In this talk I will speak about (a) theoretical models for human
