@@ -1,5 +1,6 @@
 # Nonlinear analysis to quantify human movement variability from time-series data
-[![GitHub Actions Status](https://github.com/mxochicale/seminario-cicese-27112020/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/seminario-cicese-27112020/actions) [![slides](https://img.shields.io/badge/read-slides-blue.svg)](https://github.com/mxochicale/seminario-cicese-27112020/blob/generated-pdfs/slides.pdf)
+[![GitHub Actions Status](
+https://github.com/mxochicale/seminario-cicese-27112020/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/seminario-cicese-27112020/actions) [![slides](https://img.shields.io/badge/read-slides-blue.svg)](https://github.com/mxochicale/seminario-cicese-27112020/blob/generated-pdfs/slides.pdf)
 
 ## Abstract:
 In this talk I will speak about (a) theoretical models for human
@@ -34,6 +35,5 @@ experience as a teaching associate in Mechatronic and Computer
 Engineering. He has passion for Open Science meaning that he
 open-sourced all his contributions to knowledge in GitHub. He also
 tweets and re-tweets about Robotics, Chaos, AI and Brains @_mxochicale
-
 
 
